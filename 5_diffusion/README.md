@@ -25,19 +25,19 @@ Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github
 )
 
 #### Part 1:
-Tutorial: [![Open In 
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/M2Lschool/tutorials2025-dev/blob/master/5_diffusion/%5BM2LS_2025%5D_Fundamentals.ipynb)
-
+Tutorial: 
 <a target="_blank" href="https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/5_diffusion/%5BM2LS_2025%5D_Fundamentals.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 
 #### Part 2:
-Tutorial: [![Open In 
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/M2Lschool/tutorials2025-dev/blob/master/5_diffusion/%5BM2LS_2025%5D_Conditional_Generation.ipynb)
+Tutorial: <a target="_blank" href="https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/5_diffusion/%5BM2LS_2025%5D_Conditional_Generation.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 
 #### Part 3:
-Tutorial: [![Open In 
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/M2Lschool/tutorials2025-dev/blob/master/5_diffusion/%5BM2LS_2025%5D_Optional.ipynb)
+Tutorial: <a target="_blank" href="https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/5_diffusion/%5BM2LS_2025%5D_Optional.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
